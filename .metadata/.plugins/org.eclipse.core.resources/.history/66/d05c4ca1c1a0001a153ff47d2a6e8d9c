@@ -1,0 +1,5 @@
+package com.xyz.Springexampleweb1.controller;
+
+public class HomeController {
+
+}
