@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-crud-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-h2-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-rest-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\Spring-Example-Revision"/>
