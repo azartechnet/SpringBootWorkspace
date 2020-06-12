@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringBoot\SpringBootWorkspace\limits-service"/>
+			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-test-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-crud-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-h2-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-rest-example"/>
