@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootExample1"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionP2Web"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionP1"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\limits-service"/>
