@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionExampleH2"/>
+			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootExampleWeb"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionRestExample"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootExample1"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionP2Web"/>
