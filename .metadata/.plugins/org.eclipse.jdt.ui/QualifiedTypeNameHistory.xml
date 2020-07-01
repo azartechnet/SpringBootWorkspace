@@ -24,14 +24,16 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.xyz.Revisionspringbootcrudexample.repository.BooksRepository"/>
 <fullyQualifiedTypeName name="com.xyz.Revisionspringbootcrudexample.model.Books"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
-<fullyQualifiedTypeName name="javax.persistence.Id"/>
-<fullyQualifiedTypeName name="javax.persistence.Column"/>
-<fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="com.xyz.KrrSpringBooth2example.repository.StudentRepository"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
 <fullyQualifiedTypeName name="com.xyz.KrrSpringBooth2example.service.StudentService"/>
 <fullyQualifiedTypeName name="com.xyz.KrrSpringBooth2example.model.Student"/>
+<fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.xyz.KrrSpringBootCrudExample.repository.BooksRepository"/>
+<fullyQualifiedTypeName name="com.xyz.KrrSpringBootCrudExample.model.Books"/>
 </qualifiedTypeNameHistroy>
