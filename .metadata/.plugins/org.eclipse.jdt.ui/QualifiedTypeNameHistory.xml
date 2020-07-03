@@ -36,4 +36,5 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="com.xyz.KrrSpringBootCrudExample.repository.BooksRepository"/>
 <fullyQualifiedTypeName name="com.xyz.KrrSpringBootCrudExample.model.Books"/>
+<fullyQualifiedTypeName name="com.xyz.KrrSpringBootTesting.Arithmetic"/>
 </qualifiedTypeNameHistroy>
