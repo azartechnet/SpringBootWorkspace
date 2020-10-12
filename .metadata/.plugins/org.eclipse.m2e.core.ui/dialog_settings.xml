@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringBoot\SpringBootWorkspace\Spring-boot-example-web-batch3"/>
+			<item value="E:\SpringBoot\SpringBootWorkspace\spring-boot-example4"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\NewPgpdgl-spring-boot-h2-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\NewPgpdgl-spring-boot-rest-example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\NewPgpdgl-Spring-example-web1"/>
@@ -15,8 +17,6 @@
 			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootExampleWeb"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionRestExample"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootExample1"/>
-			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionP2Web"/>
-			<item value="E:\SpringBoot\SpringBootWorkspace\RevisionP1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
