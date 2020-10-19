@@ -45,4 +45,6 @@
 <fullyQualifiedTypeName name="com.xyz.Springbootexamplecrudnew.repository.BooksRepository"/>
 <fullyQualifiedTypeName name="com.xyz.Springbootexamplecrudnew.service.BooksService"/>
 <fullyQualifiedTypeName name="com.xyz.Springbootexamplecrudnew.model.Books"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.example.SpringBootTesting.Arithmetic"/>
 </qualifiedTypeNameHistroy>
