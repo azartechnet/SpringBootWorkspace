@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\SpringBoot\SpringBootWorkspace\ASpring-RestExample"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\ASpringBoot-ExampleWeb"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\ASpringBootExample"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\SpringBoot-Testing"/>
@@ -16,7 +17,6 @@
 			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootTesting"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBootCrud-Example"/>
 			<item value="E:\SpringBoot\SpringBootWorkspace\KrrSpringBoot-h2-example"/>
-			<item value="E:\SpringBoot\SpringBootWorkspace\Revision-spring-boot-crud-example"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
