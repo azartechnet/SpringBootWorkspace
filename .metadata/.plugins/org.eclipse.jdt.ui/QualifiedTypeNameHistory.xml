@@ -50,4 +50,7 @@
 <fullyQualifiedTypeName name="com.xyz.NewPgpExampleP3REST.IProductService"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.xyz.NewPgpspringbooth2.repository.StudentRepository"/>
+<fullyQualifiedTypeName name="com.xyz.NewPgpspringbooth2.service.StudentService"/>
+<fullyQualifiedTypeName name="com.xyz.NewPgpspringbooth2.model.Student"/>
 </qualifiedTypeNameHistroy>
